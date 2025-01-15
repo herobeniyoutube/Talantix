@@ -1,6 +1,7 @@
 ﻿
 using Microsoft.Extensions.Hosting;
 using Microsoft.Extensions.Logging;
+using Talantix.Application;
 
 namespace Talantix.WebApi.temp
 {

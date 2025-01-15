@@ -1,6 +1,6 @@
 ﻿using Microsoft.Data.Sqlite;
 
-namespace Talantix.WebApi.temp
+namespace Talantix.Application
 {
     public class MonitoringService
     {
@@ -11,7 +11,7 @@ namespace Talantix.WebApi.temp
         public List<SqliteConnection> Connections { get; set; } = new List<SqliteConnection>();
         public void CheckIsAlive()
         {
-            
+
         }
     }
 }

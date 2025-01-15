@@ -12,6 +12,7 @@
 
   <ItemGroup>
     <ProjectReference Include="..\Talantix.CRUDService\Talantix.Application.csproj" />
+    <ProjectReference Include="..\Talantix.ModelsLibrary\Talantix.ModelsLibrary.csproj" />
     <ProjectReference Include="..\Talantix.Repository\Talantix.Repository.csproj" />
   </ItemGroup>
 

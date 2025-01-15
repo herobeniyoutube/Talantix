@@ -12,7 +12,6 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\ModelsLibrary\Talantix.ModelsLibrary.csproj" />
     <ProjectReference Include="..\Talantix.Application.Contracts\Talantix.Application.Contracts.csproj" />
   </ItemGroup>
 
